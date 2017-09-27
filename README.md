@@ -1,24 +1,8 @@
-# README
+# Rails Boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Rails Boilerplate has the following dependencies already installed and configured.
 
-Things you may want to cover:
+* SimpleForm
+* rspec
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Initially there is a single controller, `static_pages_controller.rb` and the `index` action is configured to the root.  The view has a simple `h1` tag.
